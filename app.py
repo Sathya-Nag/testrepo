@@ -7,6 +7,5 @@ print("Name of the person:"+name)
 print(a+b)
 print("First Python code")
 print(math.sqrt(9))
-print(a*b)
 
 print(a/b)
